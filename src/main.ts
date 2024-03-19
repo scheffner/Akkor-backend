@@ -13,7 +13,7 @@ async function bootstrap() {
         'Origin, X-Requested-With, Content-Type, Accept, Authorization',
       methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
       credentials: true,
-    }),
+    })
   );
 
   const options = new DocumentBuilder()
@@ -28,6 +28,6 @@ async function bootstrap() {
   const document = SwaggerModule.createDocument(app, options);
   SwaggerModule.setup('api', app, document);
 
-  await app.listen(5001);
+  await app.listen(process.env.PORT, '0.0.0.0');
 }
 bootstrap();
