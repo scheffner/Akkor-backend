@@ -1,0 +1,203 @@
+[
+    {
+        "name": "Sunset Haven Resort",
+        "location": "Coastal town of Serenity Bay, California",
+        "description": "Welcome to Sunset Haven Resort, nestled along the pristine shores of Serenity Bay in the picturesque coastal town of California. Our resort offers a perfect blend of luxury and tranquility, where guests can escape the hustle and bustle of everyday life. With breathtaking ocean views and lush tropical gardens, our property provides a serene oasis for relaxation and rejuvenation. Indulge in our spacious and elegantly appointed guest rooms, each featuring modern amenities and private balconies overlooking the shimmering waters. Explore the local area with ease, as our resort is conveniently located near charming shops, gourmet restaurants, and outdoor adventures. Whether you're seeking a romantic getaway, a family vacation, or a corporate retreat, Sunset Haven Resort promises an unforgettable experience in paradise.",   
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image1.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image2.jpeg"],
+        "characteristics": [true, true, true, true, false,false,false,false,false,false,true, false],
+        "rooms": [
+          { "type": "Single", "price": 90, "number": 15 },
+          { "type": "Double", "price": 140, "number": 7 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+    },
+    {
+        "name": "Azure Skies Boutique Hotel",
+        "location": "Downtown District, New York City",
+        "description": "Discover urban sophistication at Azure Skies Boutique Hotel, located in the vibrant heart of New York City's downtown district. Our chic and stylish hotel offers a luxurious retreat amidst the bustling energy of the city. Step into our sleek lobby adorned with contemporary artwork and modern furnishings, and let our attentive staff pamper you with personalized service. Retreat to your spacious guest room, where plush bedding and upscale amenities await. Enjoy sweeping views of the iconic city skyline from our rooftop terrace, or indulge in gourmet cuisine at our onsite restaurant. With world-class shopping, dining, and entertainment just steps away, Azure Skies Boutique Hotel is the perfect base for exploring everything that the Big Apple has to offer.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image3.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image4.jpg"],
+        "characteristics": [true, true, true, true, true, true, false, false, false, false, false, false],
+        "rooms": [
+          { "type": "Double", "price": 130, "number": 12 },
+          { "type": "Suite", "price": 220, "number": 3 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+    },
+    {
+        "name": "Mountain Vista Lodge & Spa",
+        "location": "Rocky Mountains, Colorado",
+        "description": "Escape to the majestic Rocky Mountains and experience the ultimate mountain getaway at Mountain Vista Lodge & Spa. Surrounded by breathtaking natural beauty, our lodge offers a secluded retreat for outdoor enthusiasts and relaxation seekers alike. Cozy up by the fireplace in our rustic yet elegant lobby, and let the tranquil ambiance wash over you. Unwind in our luxurious guest rooms, featuring rustic décor and modern amenities, or indulge in a rejuvenating spa treatment at our onsite wellness center. With miles of hiking trails, skiing slopes, and outdoor adventures right at your doorstep, there's no shortage of activities to enjoy. After a day of exploration, savor delicious cuisine at our mountain-view restaurant, and toast to unforgettable memories under the starlit sky.",      
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image5.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image6.jpg"],
+        "characteristics": [true, true, true, true, false, false, true, true, false, false, false, false],
+        "rooms": [
+          { "type": "Single", "price": 100, "number": 8 },
+          { "type": "Double", "price": 160, "number": 4 },
+          { "type": "Twin", "price": 150, "number": 6 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+    },
+    {
+        "name": "Tropical Paradise Resort & Spa",
+        "location": "Island of Maui, Hawaii",
+        "description": "Welcome to Tropical Paradise Resort & Spa, located on the enchanting island of Maui, Hawaii. Embrace the spirit of aloha as you immerse yourself in the natural beauty and vibrant culture of the Hawaiian islands. Our resort offers luxurious accommodations surrounded by lush tropical gardens, pristine beaches, and crystal-clear waters. Unwind in our spacious and elegantly appointed guest rooms, featuring modern amenities and private lanais with stunning ocean or garden views. Indulge your senses at our onsite spa, where skilled therapists offer a range of indulgent treatments inspired by traditional Hawaiian healing rituals. Whether you're lounging poolside with a refreshing cocktail, exploring the island's natural wonders, or experiencing a traditional luau, Tropical Paradise Resort & Spa promises an unforgettable Hawaiian escape.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image7.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image8.jpg"],
+        "characteristics": [true, true, true, true, false, false, false, false, true, true, false, false],
+        "rooms": [
+          { "type": "Double", "price": 150, "number": 8 },
+        { "type": "Suite", "price": 250, "number": 10 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Alpine Retreat Chalet",
+        "location": "Swiss Alps, Switzerland",
+        "description": "Escape to the breathtaking beauty of the Swiss Alps and experience the ultimate alpine getaway at Alpine Retreat Chalet. Nestled amidst snow-capped peaks and pristine mountain landscapes, our chalet offers a cozy yet luxurious retreat for outdoor enthusiasts and nature lovers. Step into our charming chalet adorned with traditional Swiss décor and rustic furnishings, and let the warm hospitality of our staff envelop you. Relax in our spacious guest rooms, each featuring breathtaking mountain views and modern amenities. After a day of skiing, hiking, or mountain biking, unwind in our sauna or enjoy a glass of mulled wine by the fireplace. With endless outdoor adventures and picturesque villages to explore, Alpine Retreat Chalet is the perfect destination for a memorable Swiss holiday.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image9.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image10.jpg"],
+        "characteristics": [true, true, true, true, false, true, false, false, false, false, true, false],
+        "rooms": [
+          { "type": "Single", "price": 80, "number": 7 },
+          { "type": "Twin", "price": 120, "number": 2 },
+          { "type": "Triple", "price": 180, "number": 2 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Desert Mirage Resort & Spa",
+        "location": "Sahara Desert, Morocco",
+        "description": "Discover an oasis of luxury amidst the vast expanse of the Sahara Desert at Desert Mirage Resort & Spa. Situated on the outskirts of the ancient city of Marrakech, our resort offers a tranquil retreat surrounded by endless dunes and majestic desert landscapes. Step into our lavish Moroccan-inspired oasis, where traditional architecture and modern comforts blend seamlessly. Retreat to your stylish guest room, featuring elegant furnishings, plush bedding, and panoramic views of the desert. Indulge in a sensory journey at our onsite spa, where ancient hammam rituals and exotic treatments await. Experience the magic of the desert with camel rides, desert safaris, and stargazing excursions under the night sky. From delectable Moroccan cuisine to enchanting desert nights filled with music and dance, Desert Mirage Resort & Spa offers an unforgettable escape to the heart of Morocco.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image11.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image12.jpg"],
+        "characteristics": [true, true, true, true, true, false, false, true, false, false, false, false],
+        "rooms": [
+          { "type": "Double", "price": 135, "number": 10 },
+          { "type": "Suite", "price": 240, "number": 5 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Seaside Serenity Resort",
+        "location": "Amalfi Coast, Italy",
+        "description": "Welcome to Seaside Serenity Resort, nestled along the stunning cliffs of the Amalfi Coast in Italy. Embrace la dolce vita as you indulge in the breathtaking beauty and rich history of this enchanting region. Our resort offers a luxurious retreat overlooking the sparkling Mediterranean Sea, where guests can relax and rejuvenate amidst the tranquility of the coastline. Experience the epitome of Italian elegance in our beautifully appointed guest rooms, each featuring chic décor and panoramic sea views. Explore the charming coastal villages of Positano, Ravello, and Amalfi, or soak up the sun on our private beach. With gourmet dining, world-class spa treatments, and endless activities at your fingertips, Seaside Serenity Resort promises an unforgettable Italian escape.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image13.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image14.jpg"],
+        "characteristics": [true, true, true, true, false, true, true, false, false, false, false, false],
+        "rooms": [
+          { "type": "Single", "price": 95, "number": 9 },
+          { "type": "Double", "price": 145, "number": 4 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Urban Oasis Hotel",
+        "location": "Downtown District, Tokyo, Japan",
+        "description": "Experience the pulse of Tokyo from the comfort of Urban Oasis Hotel, located in the vibrant downtown district of Japan's bustling capital. Immerse yourself in the energy and excitement of the city, then retreat to our tranquil oasis for rest and rejuvenation. Our hotel offers stylish accommodations with modern amenities and panoramic views of the Tokyo skyline. Explore the eclectic neighborhoods of Shibuya, Shinjuku, and Ginza, or discover traditional Japanese culture in nearby temples and gardens. Unwind with a dip in our rooftop pool, savor authentic Japanese cuisine at our onsite restaurant, or relax in our serene spa. Whether you're here for business or leisure, Urban Oasis Hotel provides the perfect balance of urban convenience and peaceful relaxation in the heart of Tokyo.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image15.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image16.jpg"],
+        "characteristics": [true, true, true, true, false, false, false, false, false, true, true, false],
+        "rooms": [
+          { "type": "Single", "price": 85, "number": 7 },
+          { "type": "Double", "price": 130, "number": 4 },
+          { "type": "Suite", "price": 210, "number": 3 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Northern Lights Lodge",
+        "location": "Lapland, Finland",
+        "description": "Journey to the land of the midnight sun and experience the magic of the Northern Lights at Northern Lights Lodge in Lapland, Finland. Nestled amidst snow-covered forests and pristine wilderness, our lodge offers a cozy retreat for adventurers and nature lovers alike. Immerse yourself in the beauty of the Arctic landscape from our charming log cabins, each equipped with modern comforts and traditional Finnish saunas. Embark on thrilling outdoor excursions such as husky sledding, reindeer safaris, and snowmobiling under the starry sky. After a day of adventure, warm up with a cup of hot cocoa by the fireplace or relax in our outdoor hot tubs while marveling at the dancing auroras. With unforgettable experiences and warm Finnish hospitality, Northern Lights Lodge is the perfect destination for a winter wonderland getaway.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image17.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image18.jpg"],
+        "characteristics": [true, true, true, true, false, false, false, true, true, false, false, false],
+        "rooms": [
+          { "type": "Single", "price": 110, "number": 16 },
+          { "type": "Double", "price": 170, "number": 6 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Golden Sands Resort & Spa",
+        "location": "Phuket, Thailand",
+        "description": "Welcome to Golden Sands Resort & Spa, nestled along the pristine beaches of Phuket, Thailand. Experience the epitome of tropical luxury as you immerse yourself in the vibrant culture and natural beauty of this enchanting island paradise. Our resort offers spacious and elegantly appointed accommodations, each featuring breathtaking ocean views and modern amenities. Indulge in a variety of culinary delights at our onsite restaurants, serving a fusion of Thai flavors and international cuisine. Relax and rejuvenate at our world-class spa, where skilled therapists offer a range of indulgent treatments inspired by traditional Thai healing rituals. Whether you're lounging by the infinity pool, exploring nearby islands, or enjoying water sports on the Andaman Sea, Golden Sands Resort & Spa promises an unforgettable escape to paradise.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image19.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image20.jpg"],
+        "characteristics": [true, true, true, true, true, false, true, false, false, false, false, false],
+        "rooms": [
+          { "type": "Double", "price": 140, "number": 9 },
+          { "type": "Suite", "price": 230, "number": 6 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Riverside Retreat Lodge",
+        "location": "Amazon Rainforest, Brazil",
+        "description": "Discover the wonders of the Amazon Rainforest at Riverside Retreat Lodge, located deep in the heart of Brazil's lush jungle. Immerse yourself in the sights and sounds of the rainforest as you embark on unforgettable adventures amidst nature's playground. Our lodge offers comfortable accommodations with rustic charm, allowing you to experience the magic of the jungle while enjoying modern comforts. Explore the winding rivers and hidden waterfalls on guided jungle treks, spot exotic wildlife on boat excursions, and immerse yourself in indigenous culture with visits to local communities. After a day of exploration, unwind in our hammocks overlooking the river, savor traditional Amazonian cuisine, and fall asleep to the symphony of the jungle. With its remote location and unparalleled natural beauty, Riverside Retreat Lodge offers a truly unforgettable Amazonian adventure.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image21.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image22.jpg"],
+        "characteristics": [true, true, true, true, false, true, false, false, true, false, false, true],
+        "rooms": [
+          { "type": "Single", "price": 95, "number": 21 },
+          { "type": "Double", "price": 155, "number": 9 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Castle Hill Manor",
+        "location": "Countryside of Scotland, United Kingdom",
+        "description": "Escape to the picturesque countryside of Scotland and experience the charm of Castle Hill Manor, a historic estate steeped in centuries of tradition. Nestled amidst rolling hills and verdant landscapes, our manor offers a tranquil retreat for discerning travelers seeking a blend of luxury and heritage. Step into our elegant rooms adorned with antique furnishings and period décor, and feel transported to a bygone era of refinement and grace. Explore the manicured gardens and scenic walking trails surrounding the manor, or venture into nearby villages to discover ancient castles and quaint Scottish pubs. Indulge in gourmet dining experiences featuring locally sourced ingredients and traditional Scottish fare, accompanied by fine wines and whiskies. With its timeless beauty and warm hospitality, Castle Hill Manor invites you to unwind and create cherished memories in the heart of Scotland's countryside.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image23.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image24.jpg"],
+        "characteristics": [true, true, true, true, true, false, false, false, false, true, false, false],
+        "rooms": [
+          { "type": "Single", "price": 105, "number": 7 },
+          { "type": "Double", "price": 160, "number": 3 },
+          { "type": "Twin", "price": 140, "number": 3 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Tranquil Bay Resort",
+        "location": "Bora Bora, French Polynesia",
+        "description": "Welcome to Tranquil Bay Resort, nestled on the pristine shores of Bora Bora in French Polynesia. Embrace the beauty of paradise as you step into our luxurious oasis surrounded by turquoise waters and lush tropical landscapes. Our resort offers elegant overwater bungalows and beachfront villas, each exquisitely designed to provide the ultimate in comfort and privacy. Bask in the warm sunshine on your private sundeck, take a dip in the crystal-clear lagoon, or indulge in a pampering massage at our onsite spa. Savor exquisite cuisine at our waterfront restaurant, where fresh seafood and local delicacies await. Whether you're snorkeling in vibrant coral gardens, paddleboarding across the azure bay, or simply relaxing in paradise, Tranquil Bay Resort offers an unforgettable escape to the idyllic islands of French Polynesia.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image25.jpg", "ihttps://akkorimagesbucket.s3.eu-west-3.amazonaws.com/mage26.jpg"],
+        "characteristics": [true, true, true, true, false, false, true, false, true, true, false, false],
+        "rooms": [
+          { "type": "Double", "price": 145, "number": 15 },
+          { "type": "Suite", "price": 235, "number": 3 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "City Lights Hotel & Suites",
+        "location": "Downtown Manhattan, New York City",
+        "description": "Experience the vibrant energy of New York City from the comfort of City Lights Hotel & Suites, located in the heart of downtown Manhattan. Our hotel offers stylish accommodations and modern amenities just steps away from iconic landmarks, world-class dining, and unparalleled entertainment. Retreat to your spacious guest room, featuring contemporary design and breathtaking city views, then explore the bustling streets of Times Square, Broadway theaters, and Central Park. After a day of sightseeing, unwind with cocktails at our rooftop bar, or indulge in gourmet cuisine at our onsite restaurant. Whether you're here for business or leisure, City Lights Hotel & Suites provides the perfect base for experiencing the excitement and sophistication of the Big Apple.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image27.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image28.jpg"],
+        "characteristics": [true, true, true, true, false, true, true, true, false, false, true, false],
+        "rooms": [
+          { "type": "Single", "price": 85, "number": 23 },
+          { "type": "Double", "price": 135, "number": 12 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      },
+      {
+        "name": "Mountain Haven Lodge",
+        "location": "Canadian Rockies, Alberta, Canada",
+        "description": "Escape to the majestic beauty of the Canadian Rockies and experience the ultimate mountain getaway at Mountain Haven Lodge. Surrounded by towering peaks, pristine forests, and crystal-clear lakes, our lodge offers a peaceful retreat for outdoor enthusiasts and nature lovers alike. Cozy up by the fireplace in our rustic yet elegant lodge, and let the serene ambiance soothe your soul. Unwind in our comfortable guest rooms, each offering spectacular mountain views and modern amenities. Explore the endless wilderness on hiking trails, mountain bike paths, or scenic drives through Banff and Jasper National Parks. After a day of adventure, indulge in hearty Canadian cuisine at our onsite restaurant, or relax with a soak in our outdoor hot tub under the starlit sky. Whether you're seeking outdoor thrills or quiet relaxation, Mountain Haven Lodge promises an unforgettable Rocky Mountain experience.",
+        "images": ["https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image29.jpg", "https://akkorimagesbucket.s3.eu-west-3.amazonaws.com/image30.jpg"],
+        "characteristics": [true, true, true, true, false, false, true, false, false, true, false, true],
+        "rooms": [
+          { "type": "Single", "price": 100, "number": 12 },
+          { "type": "Double", "price": 150, "number": 12 },
+          { "type": "Suite", "price": 220, "number": 5 }
+        ],
+        "createdAt": "2023-09-03T22:43:13.423+00:00",
+        "updatedAt": "2023-09-03T22:43:13.423+00:00"
+      }
+]
+
