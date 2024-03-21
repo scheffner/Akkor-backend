@@ -24,7 +24,26 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is the server side for the Akkor project. The goal here is mimic a hotel room booking plateform. You have access to CRUD operations for hotels, users and reservations.
+
+For this project, you'll need:
+
+  - A mongoose cluster setup
+  - A AWS S3 bucket to store hotels images
+
+To make this server work please create a .env file in the root file of the project. Inside of it create variables: 
+
+  -DB_URI
+  -PORT
+  -JWT_SECRET
+  -BUCKET_NAME
+  -AWS_SECRET_ACCESS_KEY
+  -AWS_REGION
+  -AWS_ACCESS_KEY_ID
+
+To populate your mongoose db with 15 hotels, please run the seed file found in the src folder of the project. 
+You need to provide you own images and name them like so image1.jpeg -> image30.jpeg
+
 
 ## Installation
 
